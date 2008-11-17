@@ -1,0 +1,158 @@
+# XSI Wavefront OBJ Export v3.0
+# File Created: Web July 16 19:23:54 2008
+# XSI Version: 6.0.2006.1218
+o the_mang
+# Hierarchy (from self to top father)
+g cube
+
+#begin 8 vertices
+v -0.500000 0.000000 -0.500000
+v 0.500000 0.000000 -0.500000
+v -0.500000 1.000000 -0.500000
+v 0.500000 1.000000 -0.500000
+v -0.500000 0.000000 0.500000
+v 0.500000 0.000000 0.500000
+v -0.500000 1.000000 0.500000
+v 0.500000 1.000000 0.500000
+#end 8 vertices
+
+#begin 24 normals
+vn 0 0 0
+#end 24 vertex normals
+
+#begin 6 faces
+f 1//1 3//2 4//3 2//4 
+f 1//5 2//6 6//7 5//8 
+f 1//9 5//10 7//11 3//12 
+f 2//13 4//14 8//15 6//16 
+f 3//17 7//18 8//19 4//20 
+f 5//21 6//22 8//23 7//24 
+#end 6 faces
+
+# Hierarchy (from self to top father)
+g lleg_upper
+
+#begin 2 vertices
+v -0.25 0 0
+v -0.25 -0.25 0
+#end 2 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 9//0 10//0 
+#end 1 faces
+
+# Hierarchy (from self to top father)
+g lleg_lower
+
+#begin 1 vertices
+v -0.25 -0.25 0
+v -0.25 -0.5 0
+#end 1 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 11//0 12//0 
+#end 1 faces
+
+# Hierarchy (from self to top father)
+g rleg_upper
+
+#begin 2 vertices
+v 0.25 0 0
+v 0.25 -0.25 0
+#end 2 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 13//0 14//0 
+#end 1 faces
+
+# Hierarchy (from self to top father)
+g rleg_lower
+
+#begin 1 vertices
+v 0.25 -0.25 0
+v 0.25 -0.5 0
+#end 1 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 15//0 16//0 
+#end 1 faces
+
+# Hierarchy (from self to top father)
+g larm_upper
+
+#begin 2 vertices
+v -0.5 0.25 0
+v -0.75 0.25 0
+#end 2 vertices
+
+#begin 24 normals
+vn 0 0 0
+#end 24 vertex normals
+
+#begin 6 faces
+f 17//0 18//0 
+#end 6 faces
+
+# Hierarchy (from self to top father)
+g larm_lower
+
+#begin 2 vertices
+v -0.75 0.25 0
+v -0.75 0 0
+#end 2 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 19//0 20//0 
+#end 1 faces
+
+# Hierarchy (from self to top father)
+g rarm_upper
+
+#begin 2 vertices
+v 0.5 0.25 0
+v 0.75 0.25 0
+#end 2 vertices
+
+#begin 24 normals
+vn 0 0 0
+#end 24 vertex normals
+
+#begin 6 faces
+f 21//0 22//0 
+#end 6 faces
+
+# Hierarchy (from self to top father)
+g rarm_lower
+
+#begin 2 vertices
+v 0.75 0.25 0
+v 0.75 0 0
+#end 2 vertices
+
+#begin 0 normals
+vn 0 0 0
+#end 0 vertex normals
+
+#begin 1 faces
+f 23//0 24//0 
+#end 1 faces
