@@ -1,0 +1,1 @@
+﻿package chainsaw.ui{	import flash.events.*;		import chainsaw.ui.window;	import chainsaw.ui.ui_text;	public class button extends window	{		private var text_obj:ui_text;				public function button(s:String="null",x:Number=0,y:Number=0,w:Number=40,h:Number=12):void{			draw_window(x,y,w,h);						text_obj= new ui_text(s,x,y);			palette.addChild(text_obj);		}	}}
