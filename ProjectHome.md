@@ -1,0 +1,3 @@
+A home cooked vector rendering 3d engine written in Adobe Flash Actionscript 3. There are much better more developed Flash 3D rendering APIs out there. <a href='http://blog.papervision3d.org'>Papervision3D</a> and <a href='http://blog.alternativaplatform.com/en/'>Alternativa</a>.
+
+This project over all is a foundation for understanding 3D math, and how it all applies simply to draw simulated depth with the computer. Vector math, Matrix math, Normals and Frustums. Planes and points.
